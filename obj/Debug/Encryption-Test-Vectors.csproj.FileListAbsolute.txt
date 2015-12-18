@@ -1,0 +1,10 @@
+C:\ckGitHubProjects\Encryption-Test-Vectors\bin\Debug\Encryption-Test-Vectors.exe.config
+C:\ckGitHubProjects\Encryption-Test-Vectors\obj\Debug\Encryption-Test-Vectors.csprojResolveAssemblyReference.cache
+C:\ckGitHubProjects\Encryption-Test-Vectors\obj\Debug\Encryption_Test_Vectors.Form1.resources
+C:\ckGitHubProjects\Encryption-Test-Vectors\obj\Debug\Encryption_Test_Vectors.Properties.Resources.resources
+C:\ckGitHubProjects\Encryption-Test-Vectors\obj\Debug\Encryption-Test-Vectors.csproj.GenerateResource.Cache
+C:\ckGitHubProjects\Encryption-Test-Vectors\bin\Debug\Encryption-Test-Vectors.exe
+C:\ckGitHubProjects\Encryption-Test-Vectors\bin\Debug\Encryption-Test-Vectors.pdb
+C:\ckGitHubProjects\Encryption-Test-Vectors\bin\Debug\ChilkatDotNet45.dll
+C:\ckGitHubProjects\Encryption-Test-Vectors\obj\Debug\Encryption-Test-Vectors.exe
+C:\ckGitHubProjects\Encryption-Test-Vectors\obj\Debug\Encryption-Test-Vectors.pdb
